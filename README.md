@@ -12,7 +12,7 @@ This project provides the code and results for 'Lightweight Salient Object Detec
 
 
 # Saliency maps
-   We provide saliency maps of our SeaNet on ORSSD, EORSSD, and additional ORSI-4199 datasets under './models/saliency_maps.zip'.
+   We provide saliency maps of our SeaNet on ORSSD, EORSSD, and additional ORSI-4199 datasets in './models/saliency_maps.zip'.
       
    ![Image](https://github.com/MathLee/SeaNet/blob/main/image/table.png)
    
@@ -27,7 +27,7 @@ Note: our main model is under './model/SeaNet_models.py'
 
 
 # Pre-trained model and testing
-1. We put the pre-trained models in './models/'.
+1. We provide the pre-trained models in './models/'.
 
 2. Modify paths of pre-trained models and datasets.
 
