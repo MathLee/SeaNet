@@ -3,7 +3,7 @@ This project provides the code and results for 'Lightweight Salient Object Detec
 
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/MathLee/SeaNet/blob/main/image/SeaNet">
+   <img src="https://github.com/MathLee/SeaNet/blob/main/image/SeaNet.png">
    </div>
    
    
