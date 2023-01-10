@@ -1,5 +1,5 @@
 # SeaNet
-This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment', IEEE TGRS, accepted, 2023.
+This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment', IEEE TGRS, accepted, 2023. [arxiv link](https://arxiv.org/abs/2301.02778)
 
 # Network Architecture
    <div align=center>
