@@ -46,6 +46,7 @@ Note: our main model is under './model/SeaNet_models.py'
                 title = {Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
                 year={2023},
+                doi={10.1109/TGRS.2023.3235717},
                 }
                 
                 
