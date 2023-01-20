@@ -1,5 +1,5 @@
 # SeaNet
-This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment', IEEE TGRS, accepted, 2023. [IEEE link](https://ieeexplore.ieee.org/document/10015064) and [arxiv link](https://arxiv.org/abs/2301.02778)
+This project provides the code and results for 'Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment', IEEE TGRS, accepted, 2023. [IEEE link](https://ieeexplore.ieee.org/document/10015064) and [arxiv link](https://arxiv.org/abs/2301.02778)
 
 # Network Architecture
    <div align=center>
@@ -43,8 +43,9 @@ Note: our main model is under './model/SeaNet_models.py'
 # Citation
         @ARTICLE{Li_2023_SeaNet,
                 author = {Gongyang Li and Zhi Liu and Xinpeng Zhang and Weisi Lin},
-                title = {Lightweight Salient Object Detection in Optical Remote Sensing Images via Semantic Matching and Edge Alignment},
+                title = {Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
+                volume= {61},
                 year={2023},
                 doi={10.1109/TGRS.2023.3235717},
                 }
