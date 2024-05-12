@@ -45,9 +45,9 @@ Note: our main model is under './model/SeaNet_models.py'
                 author = {Gongyang Li and Zhi Liu and Xinpeng Zhang and Weisi Lin},
                 title = {Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
-                volume= {61},
-                year={2023},
-                doi={10.1109/TGRS.2023.3235717},
+                volume = {61},
+                year = {2023},
+                doi = {10.1109/TGRS.2023.3235717},
                 }
                 
                 
